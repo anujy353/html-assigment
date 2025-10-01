@@ -21,3 +21,6 @@ It is made only with HTML (no CSS used).
 
 ## 📬 Contact
 For queries: **info@laundrymart.com**
+## output 
+<img width="759" height="817" alt="image" src="https://github.com/user-attachments/assets/9a2ebb24-36d8-4c95-9de1-c90018606de7" />
+
